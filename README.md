@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **ML, AI, React**
 
-- 📫 Reach me vie email **shsekar@uci.edu** / Schedule a call with me **https://cal.com/shrihari**
+- 📫 Reach me via email **shsekar@uci.edu** / Schedule a call with me **https://cal.com/shrihari**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
