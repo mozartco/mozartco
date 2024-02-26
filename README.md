@@ -7,7 +7,7 @@
 
 💻 **Expertise:**
 
-- Python, R, SQL, SPSS, Power BI, Tableau, Azure, Adobe RTCDP, Adobe Journey Optimizer, Customer Journey Analytics, Salesforce
+- Python, R, SQL, SPSS, Alteryx, Power BI, Tableau, Azure, Tensorflow, PyTorch, Adobe RTCDP, Adobe Journey Optimizer, Customer Journey Analytics, Salesforce
 
 <hr>
 
@@ -17,7 +17,9 @@
 
 - 👯 I’m looking to collaborate on **Open Source, MLOps, AIOps**
 
-- 💬 Ask me about **ML, AI, React**
+- 💬 Ask me about **ML, AI, Product Design, Front-End**
+  
+- :books: Find my research paper here - <a href="https://www.itm-conferences.org/articles/itmconf/abs/2021/02/itmconf_icitsd2021_01011/itmconf_icitsd2021_01011.html" target="blank">**Blockchain based mechanism to eliminate frauds and tampering of land records**</a>
 
 - 📫 Reach me via email **shsekar@uci.edu** / Schedule a call with me **https://cal.com/shrihari**
 
